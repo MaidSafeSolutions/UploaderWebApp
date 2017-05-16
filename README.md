@@ -1,8 +1,6 @@
 # App Competitions: Uploader App #1
 SAFE Network Uploader Web App by SAFE-FS, built using safe-js library
 
-View it live at <a href="http://">safe://upload.wom5</a>
-
 Basic WebApp for uploading data to the SAFE Network, using the SAFE Browser.
 
 Allows for the upload of plaintext data, using javascript.

@@ -1,18 +1,14 @@
-# SecretChat
-SAFE Network Chat WebApp based on our SAFE-FS Demo App built with safe-js
+# App Competitions: Uploader App #1
+SAFE Network Uploader Web App by SAFE-FS, built using safe-js library
 
-View it live at <a href="http://">safe://chat.wom5</a>
+View it live at <a href="http://">safe://upload.wom5</a>
 
-Secret messenger for you and whoever you invite.
+Basic WebApp for uploading data to the SAFE Network, using the SAFE Browser.
 
-Start conversations by making new accounts in SAFE Launcher, and sharing login details with those you wish to chat with.
+Allows for the upload of plaintext data, using javascript.
 
-To chat, login to a shared account with Launcher and navigate to safe://chat.wom5
+View live clearnet demo at <a href="http://bit.do/UploaderWebApp1" target="_blank">bit.do/UploaderWebApp1</a>
 
-Everyone who is logged into the same account can see the messages being sent.
+Will be updated as APIs are released.
 
-ToDo:
- - learn how to use SD / AD and make a scrollbox with message history
- - finish the "rooms" page, where people can share & list login data
-
-Thanks! Start chatting now!
+Enjoy!
